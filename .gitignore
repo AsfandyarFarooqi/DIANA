@@ -1,0 +1,27 @@
+# Secrets — real keys live only in .env
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Local data: generated documents, recordings, old files
+archive/
+generated_docs/
+*.mp3
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
