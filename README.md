@@ -1,6 +1,6 @@
 # DIANA
 
-![ATMOS dashboard](ATMOS_Main.png)
+![DIANA Interface](DIANA.png)
 
 **Deployable Integrated Assembly of Neural Automation** is an AI assistant you can talk to or type to. It runs in your browser from a small Flask server on your own machine.
 
