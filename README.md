@@ -6,7 +6,6 @@
 
 DIANA does more than chat. It decides for itself when to search the web, run a calculation or write a document. It speaks its answers in a calm British voice modelled on JARVIS. Chat, documents and voice all share one screen with a sci-fi control-panel look that is cheap to render.
 
-![DIANA console showing a chat reply and a live web search](docs/screenshot.png)
 
 ---
 
