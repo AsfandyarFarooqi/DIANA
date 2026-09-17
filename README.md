@@ -1,5 +1,7 @@
 # DIANA
 
+![ATMOS dashboard](ATMOS_Main.png)
+
 **Deployable Integrated Assembly of Neural Automation** is an AI assistant you can talk to or type to. It runs in your browser from a small Flask server on your own machine.
 
 DIANA does more than chat. It decides for itself when to search the web, run a calculation or write a document. It speaks its answers in a calm British voice modelled on JARVIS. Chat, documents and voice all share one screen with a sci-fi control-panel look that is cheap to render.
